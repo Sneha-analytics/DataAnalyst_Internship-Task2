@@ -38,14 +38,14 @@ To analyze and visualize key business insights from the Superstore dataset using
   - Corporate customers contribute better profit margins.
   - West and South regions have the most active consumers.
 ---
-## 📖 Story Created:
+## Story Created:
 A 4-slide Tableau **Story** was built summarizing:
 - High-level sales and profit contributors
 - Seasonal performance trends
 - Shipping efficiency analysis
 - Customer segment behavior
 ---
-## 📈 Outcome:
+## Outcome:
 This project demonstrates:
 - Data exploration and cleaning
 - Interactive dashboard creation
